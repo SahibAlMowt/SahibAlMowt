@@ -4,3 +4,4 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine)
 
 
+![snake gif](https://github.com/ВАШ_НИК/ВАШ_НИК/blob/output/github-contribution-grid-snake.svg)
